@@ -1,4 +1,4 @@
-# Dark Future
+# Dark Theme
 
 📢 Telegram: [https://t.me/kig_org](https://t.me/kig_org)  
 💻 GitHub: [https://github.com/KiG-Computer-Systems/Dark-Future.git](https://github.com/KiG-Computer-Systems/Dark-Future.git)
@@ -7,26 +7,34 @@
 
 ## Dark Future Neo Theme
 
-**Dark Future Neo** — это стильная тёмная тема для Visual Studio Code с современными неоновыми акцентами.  
-Она создана для комфортной работы с кодом: мягкий фон, читаемый текст и яркие выделения для ключевых элементов.
+**Dark Future Neo** is a stylish dark theme for Visual Studio Code with modern neon accents.  
+It is designed for comfortable coding: soft background, readable text, and vivid highlights for key elements.
 
 ---
 
-## Установка
+## Preview
 
-1. Скачайте расширение из Marketplace или соберите `.vsix` через `vsce package`.
-2. В VS Code откройте командную палитру (`Ctrl+Shift+P`).
-3. Выберите **Extensions: Install from VSIX...** и укажите файл.
-4. Активируйте тему через меню выбора тем (`Ctrl+K Ctrl+T`).
+Here is a screenshot of the theme in action:
+
+![Dark Future Screenshot](photo_5471897303179268070_w.jpg)
 
 ---
 
-## Особенности
+## Installation
 
-- 🎨 Глубокий графитовый фон и мягкий текст.  
-- 🌈 Неоновые акценты: фиолетовый, бирюзовый, розовый, зелёный.  
-- 📝 Поддержка Markdown, JSON, HTML, CSS, JS и других языков.  
-- ⚡ Оптимизировано для долгой работы без усталости глаз.
+1. Download the extension from the Marketplace or build a `.vsix` package using `vsce package`.
+2. In VS Code, open the Command Palette (`Ctrl+Shift+P`).
+3. Select **Extensions: Install from VSIX...** and choose the file.
+4. Activate the theme via the theme selection menu (`Ctrl+K Ctrl+T`).
+
+---
+
+## Features
+
+- 🎨 Deep graphite background with soft text.  
+- 🌈 Neon accents: purple, turquoise, pink, green.  
+- 📝 Markdown, JSON, HTML, CSS, JS, and many other languages supported.  
+- ⚡ Optimized for long coding sessions without eye strain.
 
 ---
 
@@ -38,11 +46,11 @@
 
 ---
 
-## Дополнительная информация
+## Additional Information
 
 - [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)  
 - [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 ---
 
-✨ Наслаждайтесь новой цветовой гаммой!
+✨ Enjoy your new color scheme!
