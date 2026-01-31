@@ -1,18 +1,38 @@
 {
   "name": "kig-theme",
   "displayName": "KiG Theme",
-  "description": "Official color themes for Visual Studio Code",
-  "version": "0.0.1",
+  "description": "Dark Future Neo — official neon dark color theme for Visual Studio Code",
+  "version": "1.0.0",
+  "publisher": "14a06625-1c7f-6023-9919-20f7f6b63fe6",
   "engines": {
-    "vscode": "^1.108.1"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark",
+    "theme",
+    "neon",
+    "cyberpunk",
+    "kig",
+    "vscode",
+    "color-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KiG-Computer-Systems/Dark-Future"
+  },
+  "homepage": "https://github.com/KiG-Computer-Systems/Dark-Future",
+  "bugs": {
+    "url": "https://github.com/KiG-Computer-Systems/Dark-Future/issues"
+  },
+  "license": "MIT",
+  "icon": "logo.png",
   "contributes": {
     "themes": [
       {
-        "label": "Dark future",
+        "label": "Dark Future",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark future-color-theme.json"
       }
