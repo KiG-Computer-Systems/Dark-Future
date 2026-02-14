@@ -1,7 +1,6 @@
-# Dark Theme
+# KiG Theme
 
 📢 Telegram: [https://t.me/kig_org](https://t.me/kig_org)  
-💻 GitHub: [https://github.com/KiG-Computer-Systems/Dark-Future.git](https://github.com/KiG-Computer-Systems/Dark-Future.git)
 
 ---
 
